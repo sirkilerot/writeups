@@ -36,4 +36,4 @@ We can download this run it and get a user flag.
 ![!image](images/monitorsfour/10.png)
 
 ## Root
-
+IDK sry :)
